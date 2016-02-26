@@ -7,16 +7,21 @@
 ###### From
 
 **Bold** or __Bold__
+
 *Italic* or _Italic_
+
 ~~Strikethrough~~
+
 **Bold _italic_ etc and** etc
 
 > That's what
+
 She said
 
 Here I `quote code inline`
 
 Here I
+
 ```
 quote
   code
@@ -24,6 +29,7 @@ quote
       a block
     } 
 ```
+
 This is a [link](to here)
 
 * this is 
@@ -46,4 +52,5 @@ This is a [link](to here)
 Mention a user if you preface it with @
 
 Add emojis with : for example, :+1:
+
 Emoji list at emoji-cheat-sheet.com
